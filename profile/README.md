@@ -17,7 +17,7 @@ Quick start: https://docs.tlsnotary.org/quick_start/index.html
 
 * [Rust implementation of the TLSNotary protocol](https://github.com/tlsnotary/tlsn)
 * [Chrome Extension for TLSNotary](https://github.com/tlsnotary/tlsn-extension)
-* [NPM Modules for proving and verifying using TLS Notary in the browser](https://github.com/tlsnotary/tlsn-js)
+* [NPM Modules for proving and verifying using TLSNotary in the browser](https://github.com/tlsnotary/tlsn-js)
 
 ## Tools
 
