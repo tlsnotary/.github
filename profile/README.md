@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/tlsnotary/tlsn/raw/main/tlsn-banner.png" width=1280 />
+    <img src="https://github.com/user-attachments/assets/64028fbf-ab6b-4266-90eb-5add1295204e" width=1280 />
 </p>
 
 # TLSNotary
