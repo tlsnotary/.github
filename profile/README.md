@@ -16,6 +16,7 @@ Quick start: https://docs.tlsnotary.org/quick_start/index.html
 ## Repositories
 
 * [Rust implementation of the TLSNotary protocol](https://github.com/tlsnotary/tlsn)
+* [MPZ: The Rust library for Multi-Party Computation behind TLSNotary](https://github.com/privacy-scaling-explorations/mpz)
 * [Chrome Extension for TLSNotary](https://github.com/tlsnotary/tlsn-extension)
 * [Add plugins to the TLSNotary browser extension: Boilerplate and examples](https://github.com/tlsnotary/tlsn-plugin-boilerplate)
 * [Documentation](https://github.com/tlsnotary/docs-mdbook)
