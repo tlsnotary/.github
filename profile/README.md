@@ -12,6 +12,7 @@ https://tlsnotary.org
 
 Documentation: https://docs.tlsnotary.org
 Quick start: https://docs.tlsnotary.org/quick_start/index.html
+Demo: https://demo.tlsnotary.org
 
 ## Repositories
 
@@ -21,6 +22,3 @@ Quick start: https://docs.tlsnotary.org/quick_start/index.html
 * [Add plugins to the TLSNotary browser extension: Boilerplate and examples](https://github.com/tlsnotary/tlsn-plugin-boilerplate)
 * [Documentation](https://github.com/tlsnotary/docs-mdbook)
 
-## Tools
-
-* Quickly visualize TLSNotary proofs: https://explorer.tlsnotary.org/
