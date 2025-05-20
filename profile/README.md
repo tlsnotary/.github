@@ -10,9 +10,9 @@ https://tlsnotary.org
 
 ## Docs
 
-Documentation: https://docs.tlsnotary.org
-Quick start: https://docs.tlsnotary.org/quick_start/index.html
-Demo: https://demo.tlsnotary.org
+* Documentation: https://tlsnotary.org/docs/intro
+* Quick start: https://tlsnotary.org/docs/quick_start
+* Demo: https://demo.tlsnotary.org
 
 ## Repositories
 
